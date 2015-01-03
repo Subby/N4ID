@@ -1,0 +1,9 @@
+{
+  "name": "N4ID",
+  "description": "An application that saves images that are posted in a 4chan thread.",
+  "author": "Denver Fernandes <denver@denver.fr>",
+  "dependencies": {
+    "request": "2.x.x",
+    "minimist": "1.x.x"
+  }
+}
