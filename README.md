@@ -2,7 +2,7 @@ Node 4Chan Image Downloader
 ===================
 
 
-Node 4Chan Image Downloader (N4ID) is a simple, light-weight, application that saves images from a specified thread. 
+Node 4Chan Image Downloader (N4ID) is a simple, light-weight, application that saves images from a specified 4Chan thread. 
 
 ----------
 Features
